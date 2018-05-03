@@ -1,4 +1,4 @@
-# Brute force on small data set
+# Brute force solution on test set 1, O(n ^ 3)
 
 def solve():
     t = int(input())
